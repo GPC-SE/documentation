@@ -1,3 +1,13 @@
+**Table of Contents**
+
+- [GPC-Organisation](#user-content-gpc-organisation)
+	- [1. Management](#user-content-1-management)
+	- [2. Technik](#user-content-2-technik)
+	- [3. Design](#user-content-3-design)
+	- [4. Community](#user-content-4-community)
+	- [5. Marketing](#user-content-5-marketing)
+- [Wie kann ich mit machen?](#user-content-wie-kann-ich-mit-machen)
+
 # GPC-Organisation
 
 Die GPC ist in 5 Einheiten gegliedert. Jede Einheit hat ihre spezifischen Kompetenzen und Aufgaben, allerdings arbeiten die Einheiten in Kooperation miteinander. Im folgenden werden die verschiedenen Aspekte und Aufgaben grob beschrieben. Die Einheiten selbst können sich dabei auch wieder unterteilen.
@@ -89,5 +99,5 @@ Die Community-Einheit ist das Herz der GPC. Hier finden alle Projekte rund um Pe
 * Sponsoren auftreiben (z.B. für Server-Finanzierung oder Preise bei Turnieren)
 * Werbemaßnahmen erarbeiten und umsetzen
 
-## Wie kann ich mit machen?
+# Wie kann ich mit machen?
 Schau die offenen Stellen durch: ist dort etwas dabei, was du machen willst? Sofern du die Voraussetzung der Stelle erfüllst, bewirb dich an robert@penspinning.de
