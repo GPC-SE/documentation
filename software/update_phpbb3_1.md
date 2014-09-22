@@ -21,5 +21,6 @@ Im 3.0er sind diese Modifikationen installiert:
 * [ ] Topic Types in Viewforum (für proSilver Style)
 
 Die Funktionen der MODs müssen auf ihre Sinnhaftigkeit im neuen Forum überprüft werden und ggf übertragen werden.
-
 Bereits implementierte MODs für 3.1 sind markiert.
+
+Alle anderen sollten als Ticket in einem Ticket-System für das neue Forum eingepflegt werden, um so nach und nach übertragen zu werden. Die MODs, die verpflichtend sind und tiefere Eingriffe in das Board vorgenommen haben (z.B. Prime Trash bin) müssen vor dem Release und Update entwickelt und getestet werden.
