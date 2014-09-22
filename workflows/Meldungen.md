@@ -5,6 +5,7 @@
 		- [Spam durch Bot](#user-content-spam-durch-bot)
 		- [Spam durch User](#user-content-spam-durch-user)
 		- [Flame](#user-content-flame)
+		- [Off-Topic](#user-content-off-topic)
 		- [Konsequenzen](#user-content-konsequenzen)
 	- [Auswahl der Konsequenz](#user-content-auswahl-der-konsequenz)
 	- [Sonderregelung zu Verwarnungen](#user-content-sonderregelung-zu-verwarnungen)
@@ -52,6 +53,10 @@ Wenn ein User einen Beitrag verfasst, der in sich keinen konstruktiven Kommentar
 ### Flame
 
 Flames werden **soft gelöscht**, damit in extemen Fällen durch die Moderatoren und Admins der Verlauf eingesehen werden kann.
+
+### Off-Topic
+
+Vereinzelte Off-Topic posts sind okay. Driftet ein Thema wirklich ab, sollten die Off-Topic Beiträge entweder **soft-gelöscht** werden, wenn sie keinen Mehrwert generieren - oder in ein anderes Thema abgespalten werden. Ein Moderator entscheidet dabei, was im konkreten Fall sinnvoll ist.
 
 ### Konsequenzen
 Fällt ein User häufiger auf, wird dies Konsequenzen haben. Diese sind in drei Eskalationsstufen aufgeteilt:
