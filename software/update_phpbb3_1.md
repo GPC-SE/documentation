@@ -12,7 +12,7 @@ Im 3.0er sind diese Modifikationen installiert:
 * [ ] ideas
 * [ ] last_posts (eigener MOD)
 * [ ] Prime Links 1.2.7 (öffnet externe Links in neuem Fenster)
-* [ ] ~~Prime Trash bin 1.0.6/8/9/10~~ (core 3.1)
+* [ ] ~~Prime Trash bin 1.0.6/8/9/10~~ (core 3.1, wie werden alte "soft-deletes" gehandhabt? ggf alle hart löschen vor Konvertierung?)
 * [ ] rename_user (eigener MOD)
 * [ ] ~~umil~~
 * [x] Whitelist (eigener MOD)
