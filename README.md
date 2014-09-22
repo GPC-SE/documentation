@@ -55,10 +55,7 @@ Die Design-Einheit entwickelt und pflegt das *Coorporate Design* der GPC und pas
 
 ## 4. Community
 
-Die Community-Einheit ist das Herz der GPC. Hier finden alle Projekte rund um Penspinning statt. Da das einige sind, ist die Einheit unterteilt in: Moderation, Wiki
-
-WOrkflow: Meeting mit Projektteam -> die wollen eine News -> News schreiber wird beauftragt.
-News Member schreibt die News. Ich entscheide worüber.
+Die Community-Einheit ist das Herz der GPC. Hier finden alle Projekte rund um Penspinning statt. Da das einige sind, ist die Einheit unterteilt in: Moderation, News, Events, Battles, Andere Communities
 
 * Moderation
   * Rechte Vergabe im Forum
@@ -79,7 +76,7 @@ News Member schreibt die News. Ich entscheide worüber.
   * Informationen zu Unterkünften zusammenstellen
   * Räumlichkeiten mieten
   * Abläufe und Inhalte planen (z.B. Offline-Turnier)
-* Battle
+* Battles
   * PS-Experten für die Bewertung von PS-Videos
   * Online Turniere und PS-Spiele organisieren
   * Online Liga-System managen
