@@ -7,7 +7,7 @@ Im 3.0er sind diese Modifikationen installiert:
 * [ ] auto-groups
 * [ ] Categ Announce Stickies
 * [ ] Paypal Mod (eigener MOD)
-* [ ] External Links Referrer (eigener MOD, schützt vor Phisihing)
+* [x] External Links Referrer (eigener MOD, schützt vor Phisihing)
 * [ ] GeoMap 2.2.1
 * [ ] ideas
 * [ ] last_posts (eigener MOD)
