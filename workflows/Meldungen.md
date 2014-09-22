@@ -1,3 +1,18 @@
+**Table of Contents**
+ - [Meldungen](#user-content-meldungen)
+	- [Workflow](#user-content-workflow)
+	- [Berechtigte Meldungen](#user-content-berechtigte-meldungen)
+		- [Spam durch Bot](#user-content-spam-durch-bot)
+		- [Spam durch User](#user-content-spam-durch-user)
+		- [Flame](#user-content-flame)
+		- [Konsequenzen](#user-content-konsequenzen)
+	- [Auswahl der Konsequenz](#user-content-auswahl-der-konsequenz)
+	- [Sonderregelung zu Verwarnungen](#user-content-sonderregelung-zu-verwarnungen)
+	- [Sonderregelung zu Bans / Sperren](#user-content-sonderregelung-zu-bans--sperren)
+- [Falsch-Meldungen](#user-content-falsch-meldungen)
+
+# Meldungen
+
 Dieser Workflow beschreibt, wie mit Meldungen umgegangen wird.
 
 Hier zunächst einige Erklärungen zum Löschen:
