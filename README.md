@@ -100,4 +100,4 @@ Die Community-Einheit ist das Herz der GPC. Hier finden alle Projekte rund um Pe
 * Werbemaßnahmen erarbeiten und umsetzen
 
 # Wie kann ich mit machen?
-Schau die offenen Stellen durch: ist dort etwas dabei, was du machen willst? Sofern du die Voraussetzung der Stelle erfüllst, bewirb dich an robert@penspinning.de
+Schau die [offenen Stellen](https://github.com/GPC-SE/documentation/tree/master/stellen) durch: ist dort etwas dabei, was du machen willst? Sofern du die Voraussetzung der Stelle erfüllst, bewirb dich an robert@penspinning.de
