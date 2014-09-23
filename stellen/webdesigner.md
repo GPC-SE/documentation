@@ -10,6 +10,7 @@ Irgendwas von den folgenden Dingen trifft auf dich zu? Super! Bewirb dich an: ro
 * Layouten der GPC-Seiten oder einzelner Komponenten
 * Farbwahl, Icon-Design
 * Paper-prototypes digitalisieren und in HTML / CSS umsetzen
+* Merchandising-Artikel designen
 
 ## Was du mitbringen solltest
 * Erfahrung im Layouten und Designen von Websites und Icons
