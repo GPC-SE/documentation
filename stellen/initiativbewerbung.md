@@ -1,4 +1,4 @@
-# Initiative Bewerbung
+# Initiativbewerbung
 
 Bei den anderen Stellen war nichts dabei?
 Du hast Ideen, was in der GPC umgesetzte werden sollte und bist bereit dich dafür zu engagieren?
