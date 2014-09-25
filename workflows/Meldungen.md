@@ -12,6 +12,10 @@
 	- [Sonderregelung zu Bans / Sperren](#user-content-sonderregelung-zu-bans--sperren)
 - [Falsch-Meldungen](#user-content-falsch-meldungen)
 
+# TODO
+* Reputationssystem konzeptionell integrieren
+* (Dis)Like-Post-System konzeptionell integrieren
+
 # Meldungen
 
 Dieser Workflow beschreibt, wie mit Meldungen umgegangen wird.
